@@ -1,0 +1,50 @@
+body {
+    background: blue;
+    font: normal 15pt Arial;
+}
+
+header{
+    color:white;
+    text-align: center;
+    text-shadow: 0.1em 0.1em black;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+}
+
+.caixa {
+    text-align: center;
+    
+}
+
+input {
+    border: 1px solid black;   
+    border-radius: 1em;
+    font-size: 20px;
+    padding: 5px;
+}
+
+select {
+    border: 2px solid black;   
+    border-radius: 1em;
+    font-size: 20px;
+    padding: 8px;
+    overflow: hidden;
+}
+
+.res {
+    margin-top: 20px;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
